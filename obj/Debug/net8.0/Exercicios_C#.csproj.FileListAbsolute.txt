@@ -1,0 +1,14 @@
+C:\Users\richa\Exercicios_C#\bin\Debug\net8.0\Exercicios_C#.exe
+C:\Users\richa\Exercicios_C#\bin\Debug\net8.0\Exercicios_C#.deps.json
+C:\Users\richa\Exercicios_C#\bin\Debug\net8.0\Exercicios_C#.runtimeconfig.json
+C:\Users\richa\Exercicios_C#\bin\Debug\net8.0\Exercicios_C#.dll
+C:\Users\richa\Exercicios_C#\bin\Debug\net8.0\Exercicios_C#.pdb
+C:\Users\richa\Exercicios_C#\obj\Debug\net8.0\Exercicios_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Exercicios_C#\obj\Debug\net8.0\Exercicios_C#.AssemblyInfoInputs.cache
+C:\Users\richa\Exercicios_C#\obj\Debug\net8.0\Exercicios_C#.AssemblyInfo.cs
+C:\Users\richa\Exercicios_C#\obj\Debug\net8.0\Exercicios_C#.csproj.CoreCompileInputs.cache
+C:\Users\richa\Exercicios_C#\obj\Debug\net8.0\Exercicios_C#.dll
+C:\Users\richa\Exercicios_C#\obj\Debug\net8.0\refint\Exercicios_C#.dll
+C:\Users\richa\Exercicios_C#\obj\Debug\net8.0\Exercicios_C#.pdb
+C:\Users\richa\Exercicios_C#\obj\Debug\net8.0\Exercicios_C#.genruntimeconfig.cache
+C:\Users\richa\Exercicios_C#\obj\Debug\net8.0\ref\Exercicios_C#.dll
